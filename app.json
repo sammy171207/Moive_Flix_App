@@ -4,7 +4,7 @@
     "slug": "learning_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "/assets/icons/logo.png",
+    "icon": "./assets/icons/logo.png",
     "scheme": "learningapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
